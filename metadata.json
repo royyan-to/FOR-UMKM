@@ -1,0 +1,6 @@
+{
+  "name": "UsahaPilot AI",
+  "description": "Asisten bisnis berbasis AI untuk UMKM: manajemen produk, transaksi, analitik penjualan, marketing generator, laporan bisnis, dan AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
